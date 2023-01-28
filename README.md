@@ -39,7 +39,7 @@
 
   
 ## 🚀 Recent Works
-| <a href="https://github.com/HanaSabih/To-Do-list-list-structure" target="_blank" rel="noreferrer"><img src="rwork4.png" alt="todo app" width="700" height="150"></a> | ☑️ I have recently Built a Todo_list project ⚙ built with Html, Css, Javascript, Bootstrap, webpack with alot features such as adding and removing from the todo-list, dragable event, clear completed tasks |
+| <a href="https://github.com/HanaSabih/To-Do-list-list-structure" target="_blank" rel="noreferrer"><img src="rwork4.png" alt="todo app" width="700" height="150"></a> | ☑️A Todo_list app that make a list todo from an input to allow users to  add and remove from the todo-list, dragable event, clear completed tasks.  built with Html, Css, Javascript, Bootstrap, webpack and served by a webpack dev server.  |
 |---|---|
 
   
