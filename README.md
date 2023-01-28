@@ -31,32 +31,26 @@
  <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a> 
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a></p>
+ 
+ 
+ ## 🏆 GitHub Trophies 
+
+<img src="https://github-profile-trophy.vercel.app/?username=HanaSabih&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" />
+
   
 ## 🚀 Recent Works
-<p align="left">
-  <a href="https://github.com/HanaSabih/To-Do-list-list-structure" target="_blank" rel="noreferrer"><img src="rwork4.png" alt="todo app" width="230" height="150"></a>
-  <a href="https://github.com/HanaSabih/awesome-books-with-es6" target="_blank" rel="noreferrer"><img src="rwork3.png" alt="commit conquest" width="230" height="150"></a>
- <a href="https://github.com/HanaSabih/capstone-project1-accountant-website" target="_blank" rel="noreferrer"><img src="rwork1.png" alt="math magicians" width="230" height="150"></a>
- <a href="https://github.com/HanaSabih/Portfolio" target="_blank" rel="noreferrer"><img src="rwork2.png" alt="pixel bros" width="230" height="150"></a>
- 
- 
- 
- </p>
-  
+| <a href="https://github.com/HanaSabih/To-Do-list-list-structure" target="_blank" rel="noreferrer"><img src="rwork4.png" alt="todo app" width="700" height="150"></a> | ☑️ I have recently Built a Todo_list project ⚙ built with Html, Css, Javascript, Bootstrap, webpack with alot features such as adding and removing from the todo-list, dragable event, clear completed tasks |
+|---|---|
 
+  
 
 
 ## ⚡ GitHub Stats
 
-|  |  |
-|---|---|
+
+
 | ![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HanaSabih&theme=2077) | ![lang](https://github-readme-stats.vercel.app/api/top-langs?username=HanaSabih&show_icons=true&locale=en&layout=compact&theme=radical) |
+|---|---|
 | ![stats](https://github-readme-stats.vercel.app/api?username=HanaSabih&show_icons=true&theme=radical)   |   ![streak](https://github-readme-streak-stats.herokuapp.com/?user=HanaSabih&theme=radical) |
 
-<!-- ![streak](https://github-readme-streak-stats.herokuapp.com/?user=HanaSabih&theme=radical) -->
 
-<!-- <p><img width="38%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HanaSabih&show_icons=true&locale=en&layout=compact&theme=radical" alt="indiecodermm"/></p>
-<p>
-<img width="55%" align="left" src="https://github-readme-stats.vercel.app/api?username=HanaSabih&show_icons=true&theme=radical" alt="Hein's Github Stats" ></p> -->
-<!-- <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HanaSabih&theme=radical" alt="indiecodermm"/></div> -->
