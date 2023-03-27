@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Hana Sabih
 
-![Cover photo](coverProfile.jpeg "Hana Sabih")
+![Cover photo](hana-sabih-linkedin-cover.png "Hana Sabih")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HanaSabih&label=Profile%20views&color=0e75b6&style=flat" alt="HanaSabih" /> </p>
 
